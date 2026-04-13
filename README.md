@@ -24,7 +24,6 @@ The goal of this project is to use **Python (Pandas)** and **MySQL** to clean, p
 DataHire/
 │
 ├── data/
-│   ├── salary_data.csv
 │   └── cleaned_data.csv
 │
 ├── sql/
