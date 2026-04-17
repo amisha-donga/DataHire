@@ -21,26 +21,31 @@ The goal of this project is to use **Python (Pandas)** and **MySQL** to clean, p
 ## 📂 Project Structure
 
 ```
+
 DataHire/
 │
-├── data/
-│   ├── salary_data.csv
-│   └── cleaned_data.csv
+├── salary_prediction_dataset/
+│ └── cleaned_data.csv
 │
 ├── sql/
-│   └── analysis_queries.sql
+│ ├── cleaning.sql
+│ └── queries.sql
 │
 ├── src/
-│   └── data_loading.py
+│ ├── analysis.py
+│ ├── data_cleaning.py
+│ └── data_loading.py
+│
+├── dashboard/
+│   └── salary_dashboard.pbix
 │
 ├── outputs/
-│   └── insights.txt
+│ └── insight.txt
 │
-├── README.md
-└── requirements.txt
-```
+├── readme.txt
+└── requirement.txt
 
----
+```
 
 ## 🔄 Workflow
 
