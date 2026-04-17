@@ -36,6 +36,9 @@ DataHire/
 │ ├── data_cleaning.py
 │ └── data_loading.py
 │
+├── dashboard/
+│   └── salary_dashboard.pbix
+│
 ├── outputs/
 │ └── insight.txt
 │
